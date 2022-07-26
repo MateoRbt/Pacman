@@ -1,4 +1,3 @@
-# pacman
-A project for my artificial inteligent with a rule based engine
-leave a comment or get it and have fun with it 
-but please give me a feedback 
+#Pacman
+
+This is my first Ai project based on a rule engine 
